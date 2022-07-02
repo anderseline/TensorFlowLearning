@@ -12,7 +12,7 @@ Repo which stores all information needed to study for the TensorFlow Developer C
 - [Coursera TensorFlow Developer Certificate Course](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 - [Laurence Moroney's ML Foundations Video Playlist](https://www.youtube.com/playlist?list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV)
 - [Hands-On Machine Learning with Tensorflow Textbook Code Repo](https://github.com/ageron/handson-ml2)
-- [MIT Introduction to Deep Learning Lectures](https://www.youtube.com/watch?v=7sB052Pz0sQ&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+- [MIT Deep Learning Lectures](https://www.youtube.com/watch?v=7sB052Pz0sQ&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [Pycharm Environment Setup](https://www.jetbrains.com/pycharm/learn/)
 
 ## 3. My Resources
