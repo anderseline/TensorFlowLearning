@@ -16,7 +16,7 @@ Repo which stores all information needed to study for the TensorFlow Developer C
 - [Pycharm Environment Setup](https://www.jetbrains.com/pycharm/learn/)
 
 ## 3. My Resources
-- [Moroney ML Foundations Exercise Code](MoroneyCourse)
+- [Moroney ML Foundations Exercises](MoroneyCourse)
 - [Textbook Code Exercises](BookExercises)
 - [Google Drive Notes](https://drive.google.com/drive/u/0/folders/1r9GtrSPdukaq31Omzb4YBl-O2feLI09u)
     - [Textbook Notes](https://drive.google.com/drive/u/0/folders/1UQaz4lPnHHZIapFxwhITW5U8ktbTT9Zt)
