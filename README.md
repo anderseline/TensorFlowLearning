@@ -1,4 +1,4 @@
-# TensorFlowLearning
+# TensorFlow Learning
 
 Repo which stores all information needed to study for the TensorFlow Developer Certificate Exam. 
 
