@@ -6,6 +6,7 @@ Repo which stores all information needed to study for the TensorFlow Developer C
 - [Exam Details from TensorFlow.org](https://www.tensorflow.org/static/extras/cert/TF_Certificate_Candidate_Handbook.pdf)
 - [Sample Studying Roadmap](https://towardsdatascience.com/how-i-passed-the-tensorflow-developer-certification-exam-f5672a1eb641)
 - [Another Sample Studying Roadmap](https://www.freecodecamp.org/news/how-i-passed-the-certified-tensorflow-developer-exam/)
+- [Study Guide Repo](https://github.com/nicholasjhana/tensorflow-certification-study-guide)
 
 ## 2. Courses and Book Resources
 - [Coursera TensorFlow Developer Certificate Course](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
