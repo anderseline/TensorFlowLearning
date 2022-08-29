@@ -3,3 +3,4 @@ models
 cifar10_logs
 cifar10_logs_batchnorm
 cifar10_logs_batchnorm_conv
+cifar10_logs_batchnorm_conv_dropout
